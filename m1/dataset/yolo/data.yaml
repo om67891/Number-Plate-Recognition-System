@@ -1,0 +1,14 @@
+path: m1/dataset/yolo
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: number_plate
+
+roboflow:
+  workspace: yolox-qcftu
+  project: indian-number-plate-keeo5
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yolox-qcftu/indian-number-plate-keeo5/dataset/1

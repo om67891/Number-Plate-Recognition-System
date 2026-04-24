@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Models
+runs/
+*.pt
+
+# Temp files
+temp_*.jpg
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
